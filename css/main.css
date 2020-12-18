@@ -7079,7 +7079,8 @@ ul.uk-nav-sub {
 
 .uk-text-secondary {
   color: #000 !important;
-  font-size: 15px;
+  font-size: 12px;
+  font-style: bold;
 }
 
 .uk-text-success {
